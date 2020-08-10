@@ -76,30 +76,45 @@ Some of the best clusters.
 Articles about a Golf tournament in Neuquen
 
 >El bonaerense Gallegos es el mejor ubicado en el Golf de Neuquén . El bonaerense Andrés Gallegos es el argentino mejor ubicado, al cumplirse hoy la segunda ronda del Abierto Clásico de golf de Neuquén, que se lleva a cabo en la localidad de Chapelco, correspondiente al Tour Latinoamericano y con premios por 175 mil pesos.
+
 >Argentinos Domínguez y Gallegos continúan a la expectativa luego de tercera ronda en Chapelco. Los argentinos Emilio Domínguez y Andrés Gallegos continúan a la expectativa, a tres golpes de la vanguardia, tras completarse hoy la tercera ronda del Abierto Clásico de golf de Neuquén, que se disputa en el Chapelco Golf Club y corresponde a una estación del Tour Latinoamericano del PGA.
+
 >El puntano Domínguez se adjudicó el Abierto Clásico de Neuquén de golf. El golfista puntano Emilio 'Puma' Domínguez se adjudicó esta tarde el Abierto Clásico de golf de Neuquén, al vencer en dos hoyos desempates sobre el norteamericano Tom Whitney, luego de que ambos jugadores empataran en el primer puesto, al cabo de las cuatro rondas disputadas en el Chapelco Golf Club.
 
 Cluster with the first article being about an argentinian journalist having a stroke in Bolivia and the secon article about him passing away.
+
 >Periodista argentino sufrió un accidente cerebro vascular en Bolivia y su familia pide ayuda. Sebastián Moro, un periodista oriundo de Mendoza con residencia en la ciudad de La Paz, Bolivia, quedó en grave estado tras sufrir un accidente cerebro-vascular (ACV) y su familia pidió ayuda económica para afrontar gastos, informaron hoy a través de un comunicado.
+
 >Falleció un periodista argentino que sufrió un accidente cerebro vascular en Bolivia . El periodista mendocino Sebastián Moro murió en la madrugada de hoy en la clínica Rengel de la capital boliviana donde estaba internado tras sufrir un accidente cerebro-vascular (ACV), informaron hoy sus familiares a través de un comunicado.
 
 A series of articles about narcotrafic in Argentina
+
 >Detienen en Santa Fe con 150 kilos de cocaína a una banda narco liderada por una mujer. Una mujer apodada "La Curandera" fue detenida en una mansión en el barrio Guadalupe, de la ciudad de Santa Fe, acusada de liderar una banda narco, a la que se le secuestraron casi 150 kilos de cocaína valuada en el mercado minorista entre 75 y 150 millones de pesos, informaron hoy fuentes oficiales.
+
 >Detienen con 15 kilos de cocaína y más de 11 millones de pesos a banda narco liderada por un preso . Una presunta banda narco que operaba en la ciudad de Rosario y que era liderada por un ciudadano peruano que está preso en la cárcel de Piñero, fue desarticulada tras una serie de allanamientos en los que se logró secuestrar 15 kilos de cocaína, más de 5 millones de pesos y 100 mil dólares, informaron hoy fuentes judiciales.
 
 Articles detailing the rate of interest of the Leliq
+
 >La tasa de interés de las Leliq bajó 99 puntos básicos y cerró a 64,942%. El Banco Central de la República Argentina (BCRA) convalidó hoy una baja en la tasa de política monetaria de 99 puntos básicos respecto del cierre de ayer al finalizar a 64,942%.
+
 >La tasa de interés de las Leliq bajó 92 puntos básicos y cerró a 64,013%. El Banco Central de la República Argentina (BCRA) convalidó hoy una baja en la tasa de política monetaria de 92 puntos básicos respecto del cierre de ayer al finalizar a 64,013%.
+
 >La tasa de interés de las Leliq cerró a 63,209% y cayó 382 puntos básicos en la semana . El Banco Central de la República Argentina (BCRA) convalidó hoy una baja de 80 puntos básicos respecto del cierre de ayer al finalizar a 63,209% y en la semana retrocedió 382 puntos básicos.
+
 >La tasa de interés de las Leliq bajó 16 puntos básicos y cerró a 63,047% . El Banco Central de la República Argentina (BCRA) convalidó hoy una baja en la tasa de política monetaria de 16 puntos básicos respecto del cierre del viernes al finalizar a 63,047%.
+
 >La tasa de interés de las Leliq cerró a 63,003% y cayó 20 puntos básicos en la semana. El Banco Central de la República Argentina (BCRA) convalidó hoy una baja marginal de la tasa de Letras de Liquidez (Leliq) al finalizar a 63,003% y en la semana retrocedió 20 puntos básicos.
 
 Articles about the elections held in Arroyito a city of Cordoba
+
 >La ciudad de Arroyito cierra el calendario electoral cordobés el próximo domingo. El próximo domingo la ciudad cordobesa de Arroyito elegirá autoridades municipales, con la participación de cinco listas de candidatos que aspiran a suceder al intendente radical Mauricio Cravero, quien cumple su segundo mandato al frente de la localidad del este de la provincia.
+
 >La ciudad cordobesa de Arroyito elige autoridades municipales. La ciudad de Arroyito, ubicada en el departamento de San Justo de la provincia de Córdoba, está votando hoy autoridades municipales, con la participación de cinco listas de candidatos que aspiran a suceder al intendente radical, Mauricio Cravero, quien cumple su segundo mandato que establece como límite la Carta Orgánica Municipal de esa localidad del este de la provincia.
 
 Articles related about the politic state of bolivia during 2019
+
 >Senadora boliviana ratifica la sesión parlamentaria que designará autoridades provisorias. La senadora boliviana Jeanine Añez ratificó para hoy la sesión extraordinaria de la Asamblea Legislativa que debe designar al sucesor de Evo Morales, quien renunció a la presidencia del país y denunció un golpe de Estado en su contra.
+
 >Senadora boliviana ratifica la sesión parlamentaria que designará autoridades provisorias. La senadora boliviana Jeanine Añez ratificó para hoy la sesión extraordinaria de la Asamblea Legislativa que debe designar al sucesor de Evo Morales, quien renunció a la presidencia del país y denunció un golpe de Estado en su contra, aunque la bancada del MAS ya anticipó que no va a participar de una convocatoria que tacha de "trucha".
 
 
